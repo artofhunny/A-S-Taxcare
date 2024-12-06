@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+Public Limited Company (PLC)
+One Person Company
+Private-Limited Company
+Limited Liability Partnership
+Sole Proprietorship
+Gst Registration
+Import Export Code
+MSME REGISTRATION
+FSSAI Registration
+TAN Registration
+Shop Establishment Registration
+ITR Filing
+GST Return Filing
+TDS Return Filing
