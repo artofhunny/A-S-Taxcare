@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/A-S-Taxcare/static/css/main.4381ef14.css",
+    "main.js": "/A-S-Taxcare/static/js/main.bc3e894c.js",
+    "static/js/453.1dc7da42.chunk.js": "/A-S-Taxcare/static/js/453.1dc7da42.chunk.js",
+    "static/media/A&S TaxCare.png": "/A-S-Taxcare/static/media/A&S TaxCare.6fda2310df677ffaa5a9.png",
+    "static/media/logo.svg": "/A-S-Taxcare/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/A-S-Taxcare/index.html",
+    "main.4381ef14.css.map": "/A-S-Taxcare/static/css/main.4381ef14.css.map",
+    "main.bc3e894c.js.map": "/A-S-Taxcare/static/js/main.bc3e894c.js.map",
+    "453.1dc7da42.chunk.js.map": "/A-S-Taxcare/static/js/453.1dc7da42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4381ef14.css",
+    "static/js/main.bc3e894c.js"
+  ]
+}
