@@ -1,6 +1,6 @@
-import { addDoc, collection } from "firebase/firestore/lite";
+// import { addDoc, collection } from "firebase/firestore/lite";
 import { useRef, useState } from "react";
-import { db } from "../utils/firebase";
+// import { db } from "../utils/firebase";
 
 const Subscribe  = () => {
 
@@ -25,13 +25,13 @@ const Subscribe  = () => {
         //     setMessage("Error subscribing. Please try again.");
         //   }
 
-        try {
-            await addDoc(collection(db, "subscribers"), { email });
-            setMessage("Thank you for subscribing!");
-          } catch (error) {
-            console.error("Error saving email:", error);
-            setMessage("Error subscribing. Please try again.");
-          }
+        // try {
+        //     await addDoc(collection(db, "subscribers"), { email });
+        //     setMessage("Thank you for subscribing!");
+        //   } catch (error) {
+        //     console.error("Error saving email:", error);
+        //     setMessage("Error subscribing. Please try again.");
+        //   }
 
         // try {
         //     await db.collection("subscribers").add({
